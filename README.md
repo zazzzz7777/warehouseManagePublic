@@ -6,12 +6,6 @@
 
 ### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt
 
-**博客地址：
-[https://blog.csdn.net/2303_76227485/article/details/141168077](https://blog.csdn.net/2303_76227485/article/details/141168077)**
-
-**视频演示：
-[https://www.bilibili.com/video/BV1ShYCe7EBX/](https://www.bilibili.com/video/BV1ShYCe7EBX/)**
-
 **毕业设计所有选题地址：
 [https://github.com/zazzzz7777/allProject](https://github.com/giteecode/allProject)**
 
